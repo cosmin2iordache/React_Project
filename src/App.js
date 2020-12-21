@@ -1,5 +1,6 @@
 import React from 'react';
-import Dashboard from './features/dashboard/Dashboard';
+import Dash from './features/dashboard/Dashboard';
+ 
 
 
 
@@ -8,7 +9,7 @@ import Dashboard from './features/dashboard/Dashboard';
 function App() {
   return (
     <>
-      <Dashboard />
+      <Dash />
 
     </>    
   );
